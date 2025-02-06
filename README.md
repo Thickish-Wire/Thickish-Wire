@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Full stack development on free code camp
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: love to eat and love playing viideo game.
+- 📭 contact: idk you tell me.
 
 <!---
 Thickish-Wire/Thickish-Wire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
