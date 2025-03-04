@@ -2,7 +2,7 @@
 - 👀 I’m interested in software Development
 - 🌱 I’m currently learning Full stack development on free code camp
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: love to eat and love playing viideo game.
+- ⚡ Fun fact: love to eat and love playing video game.
 - 📭 contact: idk you tell me.
 
 <!---
